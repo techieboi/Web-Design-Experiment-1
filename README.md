@@ -2,6 +2,8 @@
 
 A simple static page used to practise creating a GitHub repository, branches, merging and hosting with GitHub Pages.
 
+The repository history includes a feature branch that was merged into `main`.
+
 ## Technologies
 HTML, Bootstrap 5, GitHub Pages
 
